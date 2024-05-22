@@ -36,8 +36,4 @@ The JavaScript file handles the clock functionality:
 - The current time is fetched using the `Date` object.
 - Hours, minutes, and seconds are updated with leading zeros if necessary to always display two digits.
 
-## How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/digital-clock-web.git
